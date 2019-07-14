@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wenyuchen/CLionProjects/lab8/Shapes.cpp
+Shapes.h
+/Users/wenyuchen/CLionProjects/lab8/Shapes.h
+iostream
+-
+vector
+-
+math.h
+-
+
+/Users/wenyuchen/CLionProjects/lab8/Shapes.h
+
